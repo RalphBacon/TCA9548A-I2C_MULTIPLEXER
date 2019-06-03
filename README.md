@@ -37,6 +37,19 @@ Looking for a cheap source of transistors?
 200Pcs Transistor Assortment Kit BC337 BC327 2N2222 2N2907 2N3904 2N3906 and more!  
 https://www.banggood.com/200Pcs-Transistor-Assortment-Kit-BC337-BC327-2N2222-2N2907-2N3904-2N3906-S8050-S8550-A1015-C1815-10-Value-Transistors-Box-p-1422485.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
+### Amazon Prime 30-day Free Trial:  
+#### What is Amazon Prime?  
+
+For an annual fee of £79, Amazon Prime members can:  
+
+* Get unlimited, FREE One-Day Delivery on millions of items  
+* Watch over 15,000 movies and TV episodes with unlimited instant streaming  
+* Borrow from thousands of titles from the Kindle Owners' Lending Library  
+* Secure, unlimited photo storage with anywhere access  
+* Listen to over 2 million songs on Prime Music  
+
+http://www.amazon.co.uk/tryprimefree?tag=arduinite21 
+
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
 My channel and blog are here:  
