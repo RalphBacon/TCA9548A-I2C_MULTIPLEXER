@@ -6,6 +6,9 @@ You want to use multiple fixed I2C hex addresses on your device? You need this!
 #### 4 Hours Ready for Shipping
 #### Shop: https://lcsc.com/
 
+## See https://www.youtube.com/ralphbacon video #148  
+Direct link to video: https://youtu.be/LowMKYcBxNg
+
 So you have multiple devices with the same I2C hex address but want to use them on the same bus? 
 
 Impossible! Or is it? Using this TCA9548A I2C multiplexer you can do it with no problem and minimal coding. Just one extra line of code in your Arduino sketch and you'll be able to use up to 8 devices with the same hex address.
