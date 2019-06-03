@@ -18,16 +18,18 @@ I show you exactly how to scan for your I2C devices (in case you don't know the 
 ##### Some links may be affiliate links from which I earn commission or which help my channel in other ways.  
 
 TCA9548A device from Adatafruit:  
-UK: https://shop.pimoroni.com/products/tca9548a-i2c-multiplexer  
-USA: https://www.adafruit.com/product/2717  
-Amazon: https://amzn.to/2WbCMYL  
+UK: http://bit.ly/2WkTWYP  
+USA: http://bit.ly/2EQPZAn  
+Amazon UK: https://amzn.to/2WbCMYL  
+Amazon  USA: https://amzn.to/2KmSr5j  
 
 TCA9548A Clone Boards (not Adafruit) at around $1 each (have a look around, many sellers, most with free shipping):  
-http://s.click.aliexpress.com/e/boKyTZvm
-https://amzn.to/2QIo6PE  
+http://s.click.aliexpress.com/e/boKyTZvm  
+UK: https://amzn.to/2QIo6PE  
+USA: https://amzn.to/2JTK5m6  
 
 The bare chip for integration into your own PCB:  
-https://lcsc.com/product-detail/Logic-ICs_TI_TCA9548APWR_TCA9548APWR_C130026.html  
+http://bit.ly/LCSC_TI_CHIP  
 
 Adafruit's Trinket M0 (as shown at the end of the video) for microPython:  
 https://www.adafruit.com/product/3500  
@@ -35,7 +37,7 @@ https://amzn.to/2EOzxka
 
 Looking for a cheap source of transistors?  
 200Pcs Transistor Assortment Kit BC337 BC327 2N2222 2N2907 2N3904 2N3906 and more!  
-https://www.banggood.com/200Pcs-Transistor-Assortment-Kit-BC337-BC327-2N2222-2N2907-2N3904-2N3906-S8050-S8550-A1015-C1815-10-Value-Transistors-Box-p-1422485.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+http://bit.ly/Banggood_Transistor_Pack  
 
 ### Amazon Prime 30-day Free Trial:  
 #### What is Amazon Prime?  
@@ -48,7 +50,7 @@ For an annual fee of £79, Amazon Prime members can:
 * Secure, unlimited photo storage with anywhere access  
 * Listen to over 2 million songs on Prime Music  
 
-http://www.amazon.co.uk/tryprimefree?tag=arduinite21 
+http://bit.ly/PrimeTrial30Days 
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
