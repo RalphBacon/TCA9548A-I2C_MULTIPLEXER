@@ -4,7 +4,7 @@ You want to use multiple fixed I2C hex addresses on your device? You need this!
 ### LCSC China's Leading Electronic Components Distributor
 #### More Asian Brands, Lower Prices
 #### 4 Hours Ready for Shipping
-#### Shop: https://lcsc.com/
+#### Shop: https://lcsc.com/?href=arduinoelectronics&source=referral  
 
 ## See https://www.youtube.com/ralphbacon video #148  
 Direct link to video: https://youtu.be/LowMKYcBxNg
